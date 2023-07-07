@@ -26,3 +26,6 @@ def save_text_to_file(text, output_file_path):
 #Para a parte de Poderes do livro básico
 save_text_to_file(text_pdf_some_pages("arquivos/jogo_do_ano_1.2.pdf",130,143),"arquivos/poderes.txt")
 
+#Para a parte de lista de Poderes do livro básico
+save_text_to_file(text_pdf_some_pages("arquivos/jogo_do_ano_1.2.pdf",132,133),"arquivos/poderes.txt")
+
